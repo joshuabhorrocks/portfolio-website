@@ -1,21 +1,11 @@
 ![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
 
-# React Example
+# My Portfolio Website
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+Joshua Horrock's portfolio website, made by Joshua Horrocks. I built this website to highlight my skills as a web developer. It features a Home page for general information, a Project page for a small list of projects I've completed, and a Contact page with links to social platforms I can be contacted through.
 
-## Deploy Your Own
+## How was it made?
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+This site was developed using JavaScript and Creat-React-App. It's hosted on Vercel using a custom domain.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
-
-_Live Example: https://create-react-app.now-examples.now.sh/_
-
-### How We Created This Example
-
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
-
-```shell
-$ npx create-react-app my-app
-```
+Site URL: _https://joshuabhorrocks.vercel.app/_
