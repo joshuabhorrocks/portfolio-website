@@ -38,6 +38,7 @@
     padding-right: 25%;
     text-decoration: none;
 }
+
 #nav-link-projects:hover {
     color: black;
 }
@@ -49,4 +50,109 @@
 }
 #nav-link-contact:hover {
     color: black;
+}
+
+/* Media Queries */
+
+@media (max-width: 1201px) {
+    #nav-links {
+        margin-top: -5.5%;
+    }
+}
+
+@media (max-width: 1100px) {
+    #nav-links {
+        margin-top: -6%;
+    }
+}
+
+/* iPad Pro */
+@media (max-width: 1024px) {
+    @media (max-height: 1366px) {
+        #nav-header {
+            height: 16vh;
+        }
+        #nav-title {
+            margin-left: 28%;
+            margin-bottom: 7%;
+        }
+        #nav-links {
+            margin-left: 70%;
+        }
+    }
+}
+
+@media (max-width: 1000px) { 
+    #nav-links {
+        margin-top: -6.5%;
+    }
+    
+}
+
+@media (max-width: 900px) {
+    #nav-header {
+        height: 15vh;
+    }
+    #nav-title {
+        margin-left: 30%;
+    }
+    #nav-links {
+        margin-top: -2.5%;
+        margin-left: 65%;
+    }
+}
+
+@media (max-width: 800px) {
+    #nav-links {
+        margin-left: 68%;
+    }
+}
+
+@media (max-width: 769px) {
+    #nav-header {
+        height: 23vh;
+    }
+    #nav-title {
+        margin-left: 25%;
+        margin-bottom: 2.5%;
+    }
+
+    #nav-links {
+        display: flex;
+        flex-flow: column wrap;
+        margin-left: 40%;
+    }
+}
+
+@media (max-width: 650px) {
+    #nav-title {
+        margin-left: 19%;
+    }
+
+    #nav-links {
+        margin-left: 38%;
+    }
+}
+
+@media (max-width: 550px) {
+    #nav-title {
+        margin-left: 15%;
+    }
+
+    #nav-links {
+        margin-left: 35%;
+    }
+}
+
+@media (max-width: 350px) {
+    #nav-header {
+        height: 23vh;
+    }
+    #nav-title {
+        margin-left: 7%;
+    }
+
+    #nav-links {
+        margin-left: 30%;
+    }
 }

@@ -9,7 +9,7 @@ import github from "../../media/social-media-icons/github.png";
 const Contact = () => {
     return (
         <div id="contact-page">
-            <h1 id="contact-title">Want to get in contact with me? Here are some options.</h1>
+            <h1 id="contact-title">Want to get in contact with me? Here are some options:</h1>
             <div id="contact-links">
                 <img className="icons" src={linkedin} alt="linkedin logo"/>
                 <a className="icon-label" href="https://www.linkedin.com/in/joshuabhorrocks/" target="_blank" rel="noopener noreferrer">Linkedin</a>
