@@ -6,20 +6,18 @@ import profilepic from "../../media/profilepic.jpg";
 const Home = () => {
     return (
         <div id="home-page">
-            <h1 id="home-main-title">Welcome to my Portfolio</h1>
-
             <div id="left-panel">
                 <img id="profile-pic" src={profilepic} alt="joshua horrocks"/>
             </div>
 
             <div id="right-panel">
                 <h2 id="section-title">A Little About Me</h2>
-                <p id="bio-content">My name is Joshua Horrocks. I was born and raised in North Salt Lake, UT. I enrolled in the Web Development program at Lambda School. Since then, I have graduated and become certified as a Full Stack Web Developer.</p>
+                <p id="bio-content">I'm a recent Lambda School graduate with a passion for developing scalable web applications and working across the full stack. I'm a determined quick learner with strong interpersonal skills and ability to work with clients and other developers in a cross-functional team environment. I'd love the opportunity to work with you.</p>
             </div>
 
             <div id="skills-panel-right">
                 <h2 id="section-title">What I Do</h2>
-                <p id="skills-bio">I create web experiences using JavaScript, React, and other tools. This website was created entirely by me using JavaScript and React.</p>
+                <p id="skills-bio">I create web experiences using JavaScript, React, and other tools. I enjoy working on both the front-end and back-end of websites. You can view some of these projects <a href="/projects">here</a>.</p>
             </div>
 
             <div id="skills-panel-left">
@@ -38,7 +36,7 @@ const Home = () => {
                         <li id="skills-content-right">HTML</li>
                         <li id="skills-content-right">CSS</li>
                         <li id="skills-content-right">Python</li>
-                        <li id="skills-content-right">Data Structures</li>
+                        <li id="skills-content-right">Angular</li>
                     </div>
                 </div>
             </div>

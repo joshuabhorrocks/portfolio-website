@@ -22,7 +22,6 @@
     display: flex;
     justify-content: flex-end;
     align-content: space-between;
-    /* border: 1px solid black; */
 }
 #nav-link-home {
     color: white;
@@ -30,7 +29,7 @@
     text-decoration: none;
 }
 #nav-link-home:hover {
-    color: black;
+    color: #b8b8b8;
 }
 
 #nav-link-projects {
@@ -40,7 +39,7 @@
 }
 
 #nav-link-projects:hover {
-    color: black;
+    color: #b8b8b8;
 }
 
 #nav-link-contact {
@@ -49,7 +48,7 @@
     text-decoration: none;
 }
 #nav-link-contact:hover {
-    color: black;
+    color: #b8b8b8;
 }
 
 /* Media Queries */
