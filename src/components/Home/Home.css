@@ -110,7 +110,7 @@ a {
     }
 
     #skills-panel-left {
-        margin-top: 5%;
+        margin-top: 2.5%;
     }
 }
 
@@ -121,18 +121,7 @@ a {
     }
 
     #skills-panel-left {
-        margin-top: 4%;
-    }
-}
-
-@media (max-width: 1720px) {
-    #skills-panel-left {
-        margin-top: 3%;
-    }
-    
-    #skills-right {
-        margin-top: -50%;
-        margin-left: 65%;
+        margin-top: 1.5%;
     }
 }
 
@@ -222,8 +211,8 @@ a {
     }
 
     #skills-panel-left {
-        margin-top: -3%;
-        height: 43vh;
+        margin-top: 0%;
+        height: 35vh;
     }
 
     #skills-panel-right {
@@ -242,14 +231,14 @@ a {
     }
 }
 
-@media (max-width: 1420px) {
+@media (max-width: 1320px) {
     #home-page {
         height: 105vh;
     }
 
     #profile-pic {
         margin-top: 6%;
-        margin-bottom: -14%;
+        margin-bottom: -13%;
     }
 
     #right-panel {
@@ -257,23 +246,23 @@ a {
     }
 
     #skills-panel-left {
-        margin-top: -3%;
-        height: 43vh;
+        height: 35vh;
+        width: 22%;
     }
 
     #skills-panel-right {
-        height: 50vh;
-        margin-bottom: -38%;
+        height: 49vh;
+        margin-bottom: -37.75%;
     }
 
     #skills-left {
-        margin-left: 5%;
+        margin-left: 10%;
         width: 55%;
     }
     
     #skills-right {
-        margin-top: -68%;
-        margin-left: 62%;
+        margin-top: -62%;
+        margin-left: 65%;
     }
 }
 
@@ -309,7 +298,47 @@ a {
     }
     
     #skills-right {
-        margin-top: -74%;
+        margin-top: -67%;
+        margin-left: 62%;
+    }
+}
+
+@media (max-width: 1120px) {
+    #home-page {
+        height: 110vh;
+    }
+
+    #profile-pic {
+        margin-top: 9%;
+        margin-bottom: -22%;
+        margin-left: -7%;
+    }
+
+    #right-panel {
+        height: 48vh;
+        width: 48%;
+        margin-left: 48%;
+    }
+
+    #skills-panel-left {
+        margin-left: 74%;
+        height: 38vh;
+    }
+
+    #skills-panel-right {
+        width: 23%;
+        height: 53vh;
+        margin-bottom: -45.75%;
+        margin-left: 48%;
+    }
+
+    #skills-left {
+        margin-left: 5%;
+        width: 60%;
+    }
+    
+    #skills-right {
+        margin-top: -67%;
         margin-left: 62%;
     }
 }
@@ -321,8 +350,8 @@ a {
 
     #profile-pic {
         margin-top: 2%;
-        margin-bottom: 0%;
-        margin-left: 30%;
+        margin-bottom: -2%;
+        margin-left: 33%;
     }
 
     #right-panel {
@@ -365,7 +394,7 @@ a {
 
     #profile-pic {
         margin-top: 5%;
-        margin-left: 30%;
+        margin-left: 33.5%;
     }
 
     #right-panel {
@@ -375,7 +404,7 @@ a {
     }
 
     #skills-panel-right {
-        margin-left: 30%;
+        margin-left: 32%;
         margin-bottom: 2%;
         width: 40vh;
         height: 40vh;
@@ -383,18 +412,18 @@ a {
     }
 
     #skills-panel-left {
-        margin-left: 30%;
+        margin-left: 32%;
     }
 }
 
 @media (max-width: 850px) {
     #home-page {
-        height: 220vh;
+        height: 230vh;
     }
 
     #profile-pic {
         margin-top: 5%;
-        margin-left: 30%;
+        margin-left: 32.5%;
     }
 
     #right-panel {
@@ -405,7 +434,7 @@ a {
     }
 
     #skills-panel-right {
-        margin-left: 27.75%;
+        margin-left: 29%;
         margin-bottom: 2%;
         width: 40vh;
         height: 40vh;
@@ -413,7 +442,7 @@ a {
     }
 
     #skills-panel-left {
-        margin-left: 27.75%;
+        margin-left: 29%;
     }
 }
 
