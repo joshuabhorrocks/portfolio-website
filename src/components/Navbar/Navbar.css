@@ -53,6 +53,12 @@
 
 /* Media Queries */
 
+@media (max-width: 1420px) {
+    #nav-links {
+        margin-top: -5.5%;
+    }
+}
+
 @media (max-width: 1201px) {
     #nav-links {
         margin-top: -7%;
