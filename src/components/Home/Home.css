@@ -93,3 +93,221 @@
 a {
     color: white;
 }
+
+/* Media Queries */
+
+@media (max-width: 1050px) {
+    #home-page {
+        height: 201vh;
+    }
+
+    #profile-pic {
+        margin-top: 5%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 29%;
+        height: 58vh;
+    }
+
+    #skills-panel-right {
+        margin-left: 12%;
+        margin-bottom: -36%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 55%;
+        margin-top: 0%;
+        width: 40vh;
+    }
+}
+
+@media (max-width: 950px) {
+    #home-page {
+        height: 220vh;
+    }
+
+    #profile-pic {
+        margin-top: 5%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 29%;
+        height: 60vh;
+    }
+
+    #skills-panel-right {
+        margin-left: 30%;
+        margin-bottom: 2%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 30%;
+    }
+}
+
+@media (max-width: 850px) {
+    #home-page {
+        height: 220vh;
+    }
+
+    #profile-pic {
+        margin-top: 5%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 29%;
+        height: 65vh;
+    }
+
+    #skills-panel-right {
+        margin-left: 27.75%;
+        margin-bottom: 2%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 27.75%;
+    }
+}
+
+@media (max-width: 769px) {
+    #home-page {
+        height: 232vh;
+    }
+
+    #profile-pic {
+        margin-top: 20%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 20%;
+        height: 60vh;
+        width: 60%;
+    }
+
+    #skills-panel-right {
+        margin-left: 25%;
+        margin-bottom: 2%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 25%;
+    }
+}
+
+@media (max-width: 650px) {
+    #home-page {
+        height: 232vh;
+    }
+
+    #profile-pic {
+        margin-top: 20%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 18%;
+        margin-bottom: 4%;
+        height: 60vh;
+        width: 65%;
+    }
+
+    #skills-panel-right {
+        margin-left: 19.5%;
+        margin-bottom: 4%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 19.5%;
+    }
+}
+
+@media (max-width: 550px) {
+    #home-page {
+        height: 232vh;
+    }
+
+    #profile-pic {
+        margin-top: 27%;
+        margin-left: 30%;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 13%;
+        margin-bottom: 4%;
+        height: 60vh;
+        width: 75%;
+    }
+
+    #skills-panel-right {
+        margin-left: 14%;
+        margin-bottom: 4%;
+        width: 40vh;
+        height: 40vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 14%;
+    }
+}
+
+@media (max-width: 450px) {
+    #home-page {
+        height: 250vh;
+    }
+
+    #profile-pic {
+        margin-top: 37%;
+        margin-left: 26%;
+        width: 350px;
+        height: 465px;
+    }
+
+    #right-panel {
+        margin-top: 40%;
+        margin-left: 10%;
+        margin-bottom: 4%;
+        height: 78vh;
+        width: 75%;
+    }
+
+    #skills-panel-right {
+        margin-left: 9%;
+        margin-bottom: 4%;
+        width: 35vh;
+        height: 45vh;
+        padding: 0%;
+    }
+
+    #skills-panel-left {
+        margin-left: 9%;
+        width: 35vh;
+        height: 40vh;
+    }
+}
