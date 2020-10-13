@@ -8,12 +8,17 @@
 }
 
 #projects-title {
-    margin-left: 25%;
+    margin-left: 23%;
+    padding: 0% 3%;
     width: 50%;
     height: 20vh;
     background: rgb(0,0,0);
     background: linear-gradient(40deg, rgba(0,0,0,1) 0%, rgba(61,3,3,1) 10%, rgba(88,4,4,1) 19%, rgba(59,6,6,1) 34%, rgba(126,18,18,1) 45%, rgba(52,6,6,1) 61%, rgba(120,17,17,1) 81%, rgba(27,1,1,1) 93%, rgba(0,0,0,1) 100%);
     border: 5px solid black;
+}
+
+h3 {
+    font-size: 2.5vh;
 }
 
 #project-card1 {
@@ -26,6 +31,15 @@
     border: 7px solid black;
 }
 
+#eco-soap-issue {
+    width: 35%;
+    margin-left: 10%;
+}
+
+.project-content1 {
+    margin-top: 0.75%;
+}
+
 .project-content {
     margin-top: 2%;
 }
@@ -36,7 +50,7 @@
 }
 
 .project-bio {
-    margin-top: 4%;
+    margin-top: 2.5%;
     margin-left: 5%;
     width: 40%;
     font-size: 2.1vh;
@@ -46,7 +60,15 @@
 .project-img {
     width: 500px;
     height: 244px;
-    margin-top: -16%;
+    margin-top: -15%;
+    margin-left: 48%;
+    border: 5px solid black;
+}
+
+.project-img1 {
+    width: 500px;
+    height: 244px;
+    margin-top: -18%;
     margin-left: 48%;
     border: 5px solid black;
 }
@@ -124,6 +146,9 @@
 }
 
 #github-link {
+    padding: 0.75%;
     font-size: 2.5vh;
     color: white;
+    background-color: black;
+    border-radius: 7px;
 }
