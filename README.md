@@ -6,6 +6,6 @@ Joshua Horrock's portfolio website, made by Joshua Horrocks. I built this websit
 
 ## How was it made?
 
-This site was developed using JavaScript and Creat-React-App. It's hosted on Vercel using a custom domain.
+This site was developed using JavaScript and Creat-React-App. It's hosted on Vercel using a custom "tech" domain.
 
-Site URL: _https://joshuabhorrocks.vercel.app/_
+Site URL: _https://joshuahorrocks.tech
